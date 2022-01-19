@@ -1,2 +1,2 @@
 # testingUnoPlatform
-a sample project for testing purposes on for the unoPlatform
+a sample project for testing purposes for the unoPlatform
